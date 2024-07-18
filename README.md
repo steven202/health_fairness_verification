@@ -129,6 +129,8 @@ The repository includes three folders: `continuous_train`, `continuous_verify`, 
 
 Inside each subfolder, model weights are saved in the `ckpt2` folder, along with other generated files.
 
+Though the saved model weights are aimed to reproduce the results, due to the development cycle spanning over a year, there may be some discrepancies in the results, e.g., due to library version updates and reorganization of the code.
+
 ## Related Works
 This project has used or is modified based on the official codes of [Nguyen2020_RNNAD](https://github.com/ThomasYeoLab/CBIG/tree/master/stable_projects/predict_phenotypes/Nguyen2020_RNNAD) and [alpha-beta-CROWN](https://github.com/Verified-Intelligence/alpha-beta-CROWN). We appreciate the authors for their contributions.
 
