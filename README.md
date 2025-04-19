@@ -115,7 +115,7 @@ bash run_analysis.sh
 - The script `write_vnnlib_plot.ipynb` will generate the plots and data for the table in the paper.
 
 ## Trained Model Weights
-The model weights can be accessed from the following link: [Trained Model Weights](https://drive.google.com/drive/folders/1YFwjC967okzInyzqOjH5BCN4qiBa7SJT?usp=sharing).
+The model weights can be accessed from the following link: [Trained Model Weights](https://drive.google.com/drive/folders/14qSE4P0sQ4ZxfH84V7ZjTkHUDnwOL22R?usp=sharing).
 
 The repository includes three folders: `continuous_train`, `continuous_verify`, and `discrete_train_verify`. 
 
